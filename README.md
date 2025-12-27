@@ -12,6 +12,21 @@ The Zodiac Killer - A cinematic true-crime documentary.
   Pictory AI (video creation)
   YouTube (video hosting)
 
+## Prompt Chain
+The prompt_chain.txt shows the chain of prompts used to generate narrative, thumbnails and structure for the video.
+
+## Thumbnail Details
+Thumbnail ideas and visual prompts are provided in thumbnail.txt.
+
+## Video Script
+Full cinematic narration script is in zodiac_script.txt.
+
+## How it was created
+This task involved:
+1. Generating a scripted narrative using ChatGPT.
+2. Using Pictory AI to convert script to video.
+3. Publishing on YouTube.
+
 ## Final Video
 https://youtu.be/aqugurEmky0
 
