@@ -1,0 +1,4 @@
+Prompt 1: Generate a cinematic true-crime documentary narrative about the Zodiac Killer.
+Prompt 2: Expand the narrative into a full YouTube script.
+Prompt 3: Generate thumbnail text and visual ideas.
+Prompt 4: Convert the script into a video using AI tools.
